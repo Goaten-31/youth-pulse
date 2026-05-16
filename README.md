@@ -27,9 +27,9 @@ other factors such as:
 To run this on your local machine, you must have the aforementioned stack,
 the libs in [requirements.txt](requirements.txt), and the following datasets:
  - **CSV:**
-   - [Teen_Mental_Health_Dataset.csv]() 
+   - [Teen_Mental_Health_Dataset.csv](Teen_Mental_Health_Dataset.csv) 
  - **SQL:**
-   - [Check this repo]() 
+   - [Check this repo]() (Not yet tho ;p)
 ### Running:
 To actually run it, open your terminal in the correct directory and run:
 
