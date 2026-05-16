@@ -2,3 +2,4 @@
 .venv/
 test.sql
 .idea
+__pycache__/
