@@ -24,7 +24,7 @@ other factors such as:
 ***
 ## Implementation:
 ### Requirements:
-To run this on your local machine, you must have the aforementioned stack
+To run this on your local machine, you must have the aforementioned stack,
 the libs in [requirements.txt](requirements.txt), and the following datasets:
  - **CSV:**
    - [Teen_Mental_Health_Dataset.csv]() 
