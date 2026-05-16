@@ -10,7 +10,7 @@ other factors such as:
 ***
 ## Stack:
 - ### Languages:
-1. **Python (3.12+)**
+1. **Python**
 2. **SQL**
 - ### Framework/Libs:
 1. **Pandas**
@@ -18,23 +18,27 @@ other factors such as:
 3. **Plotly**
 4. **SQLalchemy**
 - ### Technologies:
+1. **Python Interpreter ver. 3.14 *(compatibility goes back to ver. 3.12)***
 1. **Streamlit**
 2. **PostgreSQL**
 ***
 ## Implementation:
 ### Requirements:
 To run this on your local machine, you must have the aforementioned stack
-and the following datasets:
+the libs in [requirements.txt](requirements.txt), and the following datasets:
  - **CSV:**
    - [Teen_Mental_Health_Dataset.csv]() 
  - **SQL:**
    - [Check this repo]() 
 ### Running:
 To actually run it, open your terminal in the correct directory and run:
+
 ```bash
 streamlit run main.py
 # replace 'main' with the appropriate file name
 ```
+
+*and yes, I will containerize it soon dw ;p*
 ***
 ## Limitations:
 The working dataset (Teen_Mental_Health_Dataset.csv) didn't control for
