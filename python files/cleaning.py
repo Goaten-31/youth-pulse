@@ -12,7 +12,7 @@ engine = get_engine()
 
 start = time.perf_counter()
 
-dfc = pd.read_csv('Teen_Mental_Health_Dataset.csv')
+dfc = pd.read_csv('../Teen_Mental_Health_Dataset.csv')
 
 dfc.index = np.arange(1, len(dfc) + 1)
 

@@ -28,9 +28,7 @@ st.markdown("""
 st.dataframe(dfc.head(10))
 
 st.markdown("""
-    ### Academic Performance:
-    #### In this section we'll touch on how certain parameters affect the GPA of students:
-    #### 1. Academic Performance by Hours of Sleep:
+    ### Academic Performance by Hours of Sleep:
     The following dataframe and charts showcases the average GPA of students within a specified range
     of hours of sleep
 """)
@@ -60,3 +58,12 @@ n = \ Number \ of \ Elements \ in \ a \ Dataset  \\
 x = \ Average \ Hours \ of \ Sleep \\
 y = \ Average \ Academic \ Performance \ in \ GPA \\ 
 ''')
+
+st.markdown("""
+    After computing, we find out that the correlation coefficient is approximately 0.
+    Aligning perfectly with our graph, and showing that there is no correlation between sleep hours and
+    academic performance.
+""")
+
+st.divider()
+
