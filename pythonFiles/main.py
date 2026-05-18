@@ -67,3 +67,14 @@ st.markdown("""
 
 st.divider()
 
+st.markdown("""
+    Now that our methodology is clear, 
+    we will look into how mental health indices change in relation
+    to other parameters
+""")
+
+st.divider()
+
+st.markdown("""
+    # Sleep In Relation to Mental Health:
+""")
