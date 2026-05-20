@@ -14,6 +14,9 @@ st.markdown("""
     I aim to provide a clear and concise explanation for how all the parameters in this dataset correlate
     between one another, and which one of them is relevant in which context.
     Then drawing conclusions to help discover methods to improve teen mental health.
+    
+    ### Scope:
+    This dashboard focuses on academic performance in relation to other factors
 """)
 
 st.divider()
@@ -68,13 +71,5 @@ st.markdown("""
 st.divider()
 
 st.markdown("""
-    Now that our methodology is clear, 
-    we will look into how mental health indices change in relation
-    to other parameters
-""")
-
-st.divider()
-
-st.markdown("""
-    # Sleep In Relation to Mental Health:
-""")
+    
+    """)
