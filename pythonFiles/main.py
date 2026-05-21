@@ -2,8 +2,8 @@ import streamlit as st
 from cleaning import *
 
 st.markdown("""
-    ## Teen Mental Health, Academic Performance, and Social Media Usage: The links between the three
-    ### How can we establish solid predictions to one of them based on the other variables
+    ## Academic Performance in Relation to Sleep and Mental Health:
+    ### Finding the correlations between the parameters.
 """)
 st.divider()
 
